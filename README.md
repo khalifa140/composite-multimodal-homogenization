@@ -69,6 +69,13 @@ MLP (constituents only)	0.393	14.20%
 CNN (image only)	0.555	11.32%
 Fusion (proposed)	0.981	2.22%
 
+Citation
+If you use this code, please cite:
+
+Khalifa, Y., Reda, R., Elsayed, A., Ragab, A.E., Atiea, M.A. (2026).
+Multimodal Deep Learning for Effective Property Prediction of
+Unidirectional Fiber-Reinforced Composites. Journal Name, Volume, Pages.
+
 License
 MIT License
 
